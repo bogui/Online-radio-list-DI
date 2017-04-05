@@ -1,0 +1,465 @@
+{"stations": 
+	{
+		"14897390323311":
+			{
+				"name":"14897390323311","title":"Radio Fresh","url":"","streams":
+					{"0":"http://193.108.24.21:8000/fresh"},
+				"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323312":
+			{
+				"name":"14897390323312","title":"00s Club Hits","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=00sclubhits&bitrate=128"},
+				"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323313":
+			{
+				"name":"14897390323313","title":"Ambient","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=ambient&bitrate=128"},
+				"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323314":
+			{
+				"name":"14897390323314","title":"Atmospheric Breaks","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=atmosphericbreaks&bitrate=128"},
+				"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323315":
+			{
+				"name":"14897390323315","title":"Bass & Jackin' House","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=bassnjackinhouse&bitrate=128"},
+				"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323316":
+			{
+				"name":"14897390323316","title":"Bassline","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=bassline&bitrate=128"},
+				"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323317":
+			{
+				"name":"14897390323317","title":"Big Beat","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=bigbeat&bitrate=128"},
+				"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323318":
+
+			{
+				"name":"14897390323317","title":"Big Room House","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=bigroomhouse&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323319":
+			{
+				"name":"14897390323317","title":"Breaks","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=breaks&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323320":
+			{
+				"name":"14897390323317","title":"Chill & Tropical House","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=chillntropicalhouse&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323321":
+			{
+				"name":"14897390323317","title":"ChillHop","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=chillhop&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323322":
+			{
+				"name":"14897390323322","title":"Chillout","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=chillout&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323323":
+			{
+				"name":"14897390323323","title":"Chillout Dreams","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=chilloutdreams&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323324":
+			{
+				"name":"14897390323324","title":"Chillstep","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=chillstep&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323325":
+			{
+				"name":"14897390323325","title":"Classic EuroDance","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=classiceurodance&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"148973903233126":
+			{
+				"name":"14897390323326","title":"Classic EuroDisco","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=classiceurodisco&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"148973903233127":
+			{
+				"name":"14897390323327","title":"Classic Trance","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=classictrance&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323328":
+			{
+				"name":"14897390323328","title":"Classic Vocal Trance","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=classicvocaltrance&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323329":
+			{
+				"name":"14897390323329","title":"Club Dubstep","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=clubdubstep&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323330":
+			{
+				"name":"14897390323330","title":"Club Sounds","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=club&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323331":
+			{
+				"name":"14897390323331","title":"DJ Mixes" ,"url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=djmixes&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323332":
+			{
+				"name":"14897390323332","title":"Dark DnB","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=darkdnb&bitrate=128"},
+				"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323333":
+			{
+				"name":"14897390323333","title":"Dark PsyTrance","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=darkpsytrance&bitrate=128"},
+				"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323334":
+			{
+				"name":"14897390323334","title":"Deep House","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=deephouse&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323335":
+			{
+				"name":"14897390323335","title":"Deep Nu-Disco","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=deepnudisco&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323336":
+			{
+				"name":"14897390323336","title":"Deep Tech","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=deeptech&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323337":
+			{
+				"name":"14897390323337","title":"Detroit House & Techno","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=detroithousentechno&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323338":
+			{
+				"name":"14897390323338","title":"Disco House","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=discohouse&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323339":
+			{
+				"name":"14897390323339","title":"Downtempo Lounge","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=downtempolounge&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323340":
+			{
+				"name":"14897390323340","title":"Drum and Bass","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=drumandbass&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323341":
+			{
+				"name":"14897390323341","title":"Drumstep","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=drumstep&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323342":
+			{
+				"name":"14897390323342","title":"Dub","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=dub&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323343":
+			{
+				"name":"14897390323343","title":"Dub Techno","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=dubtechno&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323344":
+			{
+				"name":"14897390323344","title":"Dubstep","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=dubstep&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323345":
+			{
+				"name":"14897390323345","title":"EBM","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=ebm&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323346":
+			{
+				"name":"14897390323346","title":"EcLectronica","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=eclectronica&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323347":
+			{
+				"name":"14897390323347","title":"Electro House","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=electrohouse&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323348":
+			{
+				"name":"14897390323348","title":"Electro Swing","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=electroswing&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323349":
+			{
+				"name":"14897390323349","title":"Electronic Pioneers","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=electronicpioneers&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323350":
+			{
+				"name":"14897390323350","title":"Electronics","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=electronics&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323351":
+			{
+				"name":"14897390323351","title":"Electropop","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=electropop&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323352":
+			{
+				"name":"14897390323352","title":"Epic Trance","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=epictrance&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323353":
+			{
+				"name":"14897390323353","title":"EuroDance","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=eurodance&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323354":
+			{
+				"name":"14897390323354","title":"Funky House","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=funkyhouse&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323355":
+			{
+				"name":"14897390323355","title":"Future Bass","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=futurebass&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323356":
+			{
+				"name":"14897390323356","title":"Future Garage","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=futuregarage&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323357":
+			{
+				"name":"14897390323357","title":"Future Synthpop","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=futuresynthpop&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323358":
+			{
+				"name":"14897390323358","title":"Gabber","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=gabber&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323359":
+			{
+				"name":"14897390323359","title":"Glitch Hop","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=glitchhop&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323360":
+			{
+				"name":"14897390323360","title":"Goa-Psy Trance","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=goapsy&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323361":
+			{
+				"name":"14897390323361","title":"Hands Up","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=handsup&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323362":
+			{
+				"name":"14897390323362","title":"Hard Dance","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=harddance&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323363":
+			{
+				"name":"14897390323363","title":"Hard Techno","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=hardtechno&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323364":
+			{
+				"name":"14897390323364","title":"Hardcore","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=hardcore&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323365":
+			{
+				"name":"14897390323365","title":"Hardstyle","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=hardstyle&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323366":
+			{
+				"name":"14897390323366","title":"House","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=house&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323367":
+			{
+				"name":"14897390323367","title":"IDM","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=idm&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323368":
+			{
+				"name":"14897390323368","title":"Indie Beats","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=indiebeats&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323369":
+			{
+				"name":"14897390323369","title":"Indie Dance","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=indiedance&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323370":
+			{
+				"name":"14897390323370","title":"Jazz House","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=jazzhouse&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323371":
+			{
+				"name":"14897390323371","title":"Jungle","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=jungle&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323372":
+			{
+				"name":"14897390323372","title":"Latin House" ,"url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=latinhouse&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323373":
+			{
+				"name":"14897390323373","title":"Liquid DnB","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=liquiddnb&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323374":
+			{
+				"name":"14897390323374","title":"Liquid Dubstep","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=liquiddubstep&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323375":
+			{
+				"name":"14897390323375","title":"Liquid Trap","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=liquidtrap&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323376":
+			{
+				"name":"14897390323376","title":"Lounge","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=lounge&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323377":
+			{
+				"name":"14897390323377","title":"Mainstage" ,"url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=mainstage&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323378":
+			{
+				"name":"14897390323378","title":"Melodic Progressive","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=melodicprogressive&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323379":
+			{
+				"name":"14897390323379","title":"Minimal","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=minimal&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323380":
+			{
+				"name":"14897390323380","title":"Nightcore","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=nightcore&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323381":
+			{
+				"name":"14897390323381","title":"Nu Disco","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=nudisco&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323382":
+			{
+				"name":"14897390323382","title":"Oldschool Acid","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=oldschoolacid&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323383":
+			{
+				"name":"14897390323383","title":"Oldschool House","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=oldschoolhouse&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323384":
+			{
+				"name":"14897390323384","title":"Oldschool Rave","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=oldschoolrave&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323385":
+			{
+				"name":"14897390323385","title":"Oldschool Techno & Trance ","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=classicelectronica&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323386":
+			{
+				"name":"14897390323386","title":"Progressive","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=progressive&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323387":
+			{
+				"name":"14897390323387","title":"Progressive Psy","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=progressivepsy&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323388":
+			{
+				"name":"14897390323388","title":"PsyChill","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=psychill&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323389":
+			{
+				"name":"14897390323389","title":"Psybient" ,"url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=psybient&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323390":
+			{
+				"name":"14897390323390","title":"Russian Club Hits","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=russianclubhits&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323391":
+			{
+				"name":"14897390323391","title":"Soulful House","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=soulfulhouse&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323392":
+			{
+				"name":"14897390323392","title":"Space Dreams","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=spacemusic&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323393":
+			{
+				"name":"14897390323393","title":"Tech House","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=techhouse&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323394":
+			{
+				"name":"14897390323394","title":"Techno","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=techno&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323395":
+			{
+				"name":"14897390323395","title":"Trance","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=trance&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323396":
+			{
+				"name":"14897390323396","title":"Trap" ,"url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=trap&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323397":
+			{
+				"name":"14897390323397","title":"Tribal House","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=tribalhouse&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323398":
+			{
+				"name":"14897390323398","title":"UMF Radio","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=umfradio&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323399":
+			{
+				"name":"14897390323399","title":"Underground Techno","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=undergroundtechno&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323400":
+			{
+				"name":"14897390323400","title":"Vocal Chillout","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=vocalchillout&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323401":
+			{
+				"name":"14897390323401","title":"Vocal Lounge","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=vocallounge&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+		"14897390323402":
+			{
+				"name":"14897390323402","title":"Vocal Trance","url":"","streams":
+					{"0":"http://hot.friezy.ru/?radio=di&station=vocaltrance&bitrate=128"},
+					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"}
+	}
+}
