@@ -1,5 +1,11 @@
 {"stations": 
 	{
+		"14897390323310":
+			{
+				"name":"14897390323310","title":"BG Radio","url":"http://www.bgradio.bg/","streams":
+					{"0":"http://stream.metacast.eu:8000/bgradio128"},
+				"image":"http://www.bgradio.bg/themes/bgradio/images/logo.png",
+				"_userStation":true,"_hidden":false,"_currentStreamName":"0"},
 		"14897390323311":
 			{
 				"name":"14897390323311","title":"Radio Fresh","url":"","streams":
