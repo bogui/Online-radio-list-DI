@@ -451,7 +451,7 @@
 			{
 				"name":"14897390323399","title":"Underground Techno","url":"","streams":
 					{"0":"http://hot.friezy.ru/?radio=di&station=undergroundtechno&bitrate=128"},
-					"image":"","_userStation":true,"_hidden":false,"_currentStreamName":"0"},
+					"image":"","_userStation":true,"_hidden":true,"_currentStreamName":"0"},
 		"14897390323400":
 			{
 				"name":"14897390323400","title":"Vocal Chillout","url":"","streams":
